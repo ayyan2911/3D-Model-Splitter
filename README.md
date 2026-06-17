@@ -1,4 +1,4 @@
-Guida al 3D Model Splitter
+#Guida al 3D Model Splitter
 Come avviare e utilizzare il tool
 Prerequisiti
 Assicurati di avere Python installato e le dipendenze necessarie:
